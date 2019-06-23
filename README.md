@@ -1,2 +1,2 @@
 # ActionEvent
-Using actions as event
+Using actions as events
